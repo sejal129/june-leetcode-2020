@@ -13,3 +13,4 @@ Programming Language: Python
 |5|Queue Reconstruction by Height|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3352/| 2 hours 10 minutes| None| List, Dictionary| Medium|
 |6|Coin Change 2|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3353/ | 1 hour 45 minutes| Dynamic Programming| Array(Matrix)|Hard|
 |7|Power of Two|https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/| 15 minutes| None| None|Easy|
+|8|Is Subsequence|https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/ | 10 minutes| None|None|Easy|
