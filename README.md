@@ -16,4 +16,5 @@ Programming Language: Python
 |8|Is Subsequence|https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/ | 10 minutes| None|None|Easy|
 |9|Search Insert Position|https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3356/ |10 minutes|None|Array|Easy|
 |10|Sort Colors|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/| 10 minutes| Insertion Sort|Array|Easy|
-|11|Insert Delete GetRandom O(1)|https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/ |10 minutes| None| Set|Easy
+|11|Insert Delete GetRandom O(1)|https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/ |10 minutes| None| Set|Easy|
+|12|Largest Divisible Subset|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3359/|2 hours|Dynamic Programming|List|Hard|
