@@ -19,3 +19,4 @@ Programming Language: Python
 |11|Insert Delete GetRandom O(1)|https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/ |10 minutes| None| Set|Easy|
 |12|Largest Divisible Subset|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3359/|2 hours|Dynamic Programming|List|Hard|
 |13|Cheapest Flights Within K Stops|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3360/ | 2 hours 30 minutes| Dynamic Programming, Bellman Ford|List, Matrix|Hard|
+|14|Search in a Binary Search Tree|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3361/ | 45 minutes| None|Tree, List, Queue|Medium|
