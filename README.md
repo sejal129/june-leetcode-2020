@@ -21,4 +21,4 @@ Programming Language: Python
 |13|Cheapest Flights Within K Stops|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3360/ | 2 hours 30 minutes| Dynamic Programming, Bellman Ford|List, Matrix|Hard|
 |14|Search in a Binary Search Tree|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3361/ | 20 minutes| Recursion|Binary Search Tree|Easy|
 |15|Validate IP Address|https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3362/| 40 minutes|None|Array|Medium|
-|16|Surrounded Regions|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/| 50 minutes|DFS|Array (Matrix)|Medium|
+|16|Surrounded Regions|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/| 50 minutes|Recursion|Array (Matrix)|Medium|
