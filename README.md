@@ -23,3 +23,4 @@ Programming Language: Python
 |15|Validate IP Address|https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3362/| 40 minutes|None|Array|Medium|
 |16|Surrounded Regions|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/| 50 minutes|Recursion|Array (Matrix)|Medium|
 |17|H-Index II|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3364/ |1 hour| Binary Search| Array| Medium|
+|18|Longest Duplicate Substring|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3365/| 2 hours 30 minutes|Rabin-Karp's, Binary Search|Array|Hard|
