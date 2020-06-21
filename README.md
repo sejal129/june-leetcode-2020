@@ -25,3 +25,4 @@ Programming Language: Python
 |17|H-Index II|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3364/ |1 hour| Binary Search| Array| Medium|
 |18|Longest Duplicate Substring|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3365/| 3 hours |Rabin-Karp's, Binary Search|Array|Hard|
 |19|Permutation Sequence|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3366/ | 15 minutes| None|Array|Easy|
+|20|Dungeon Game|https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/ | 3 hours|Dynamic Programming|Array (Matrix)|Hard|
