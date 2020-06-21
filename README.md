@@ -3,6 +3,9 @@
 Welcome to the June Leetcode Challenge Solutions.
 
 Programming Language: Python
+
+[My LeetCode Profile](https://leetcode.com/sejalc230/)
+
 |Day|Problem | Problem Link | Time Taken | Algorithm Used | Data Structures Encountered|Difficulty Level|
 |--|------|--------| ---------- | -------------- |----|---|
 |0|Invert Binary Tree|https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/| 40 minutes| None| Queue, List|Easy|
