@@ -30,3 +30,4 @@ Programming Language: Python
 |19|[Permutation Sequence](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3366/) | 15 minutes| None|Array|Easy|
 |20|[Dungeon Game](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/) | 3 hours|Dynamic Programming|Array (Matrix)|Hard|
 |21|[Single Number II](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/)|5 minutes|None|Dictionary|Easy|
+|22|[Count Complete Tree Nodes](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3369/)|10 minutes|None|Tree|Medium|
