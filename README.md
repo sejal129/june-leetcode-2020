@@ -34,3 +34,4 @@ Programming Language: Python
 |23|[Unique Binary Search Trees](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3370/)|1 hour|Dynamic Programming(Catalan Number)|Array|Medium|
 |24|[Find the Duplicate Number](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3371/)|5 minutes|None|Dictionary|Easy|
 |25|[Sum Root to Leaf Numbers](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3372/)|30 minutes|Recursion|Binary Tree|Medium|
+|26|[Perfect Squares](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3373/)|2 hours|Dynamic Programming|Array|Medium|
