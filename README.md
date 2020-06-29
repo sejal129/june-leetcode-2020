@@ -36,3 +36,4 @@ Programming Language: Python
 |25|[Sum Root to Leaf Numbers](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3372/)|30 minutes|Recursion|Binary Tree|Medium|
 |26|[Perfect Squares](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3373/)|2 hours|Dynamic Programming|Array|Medium|
 |27|[Reconstruct Itinerary](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3374/)|2 hours 30 minutes|None|Dictionary, Stack|Hard|
+|28|[Unique Paths](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3375/)|1 hour|Dynamic Programming|Array(Matrix)|Medium|
