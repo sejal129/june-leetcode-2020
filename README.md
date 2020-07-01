@@ -37,3 +37,4 @@ Programming Language: Python
 |26|[Perfect Squares](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3373/)|2 hours|Dynamic Programming|Array|Medium|
 |27|[Reconstruct Itinerary](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3374/)|2 hours 30 minutes|None|Dictionary, Stack|Hard|
 |28|[Unique Paths](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3375/)|1 hour|Dynamic Programming|Array(Matrix)|Medium|
+|29|[Word Search II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3376/)|3 hours|Recusrion, DFS|Trie, Array(Matrix)|Hard|
